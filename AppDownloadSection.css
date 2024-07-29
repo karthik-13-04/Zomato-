@@ -1,0 +1,20 @@
+.app-download-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 20% 0;
+}
+
+.left, .right {
+    width: 45%;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}

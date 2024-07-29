@@ -1,0 +1,29 @@
+.header {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(../images/herozomato.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(250, 200, 252);
+}
+
+.hero-content {
+    text-align: center;
+    margin-top: auto;
+}
+
+select {
+    margin-top: 1rem;
+}

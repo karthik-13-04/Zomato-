@@ -1,0 +1,14 @@
+.offers-section {
+    margin: 20% 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.offer-card {
+    width: 23%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    margin: 1%;
+}

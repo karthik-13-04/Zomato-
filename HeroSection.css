@@ -1,0 +1,22 @@
+.hero-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 20% 0;
+}
+
+.card {
+    width: 45%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.card-content {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}

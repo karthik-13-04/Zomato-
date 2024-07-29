@@ -1,0 +1,13 @@
+.explore-section {
+    margin: 20% 0;
+}
+
+.dropdowns {
+    display: flex;
+    justify-content: space-around;
+}
+
+select {
+    width: 23%;
+    margin: 1%;
+}
