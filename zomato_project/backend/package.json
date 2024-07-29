@@ -1,0 +1,24 @@
+{
+  "name": "zomato-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the Zomato restaurant listing and searching application",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "babel-loader": "^8.2.3"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
